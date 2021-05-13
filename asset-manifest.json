@@ -1,31 +1,37 @@
 {
   "files": {
-    "main.css": "/static/css/main.9fa6d9d2.chunk.css",
-    "main.js": "/static/js/main.80d63cc3.chunk.js",
-    "main.js.map": "/static/js/main.80d63cc3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.66e5d9eb.js",
-    "runtime-main.js.map": "/static/js/runtime-main.66e5d9eb.js.map",
-    "static/js/2.7250fa0e.chunk.js": "/static/js/2.7250fa0e.chunk.js",
-    "static/js/2.7250fa0e.chunk.js.map": "/static/js/2.7250fa0e.chunk.js.map",
-    "static/js/3.0b1b56d1.chunk.js": "/static/js/3.0b1b56d1.chunk.js",
-    "static/js/3.0b1b56d1.chunk.js.map": "/static/js/3.0b1b56d1.chunk.js.map",
+    "main.css": "/static/css/main.9d89b514.chunk.css",
+    "main.js": "/static/js/main.e357f4e1.chunk.js",
+    "main.js.map": "/static/js/main.e357f4e1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b3aaad90.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b3aaad90.js.map",
+    "static/js/2.8ebf9271.chunk.js": "/static/js/2.8ebf9271.chunk.js",
+    "static/js/2.8ebf9271.chunk.js.map": "/static/js/2.8ebf9271.chunk.js.map",
+    "static/js/3.6fa8b518.chunk.js": "/static/js/3.6fa8b518.chunk.js",
+    "static/js/3.6fa8b518.chunk.js.map": "/static/js/3.6fa8b518.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.9fa6d9d2.chunk.css.map": "/static/css/main.9fa6d9d2.chunk.css.map",
-    "static/js/2.7250fa0e.chunk.js.LICENSE.txt": "/static/js/2.7250fa0e.chunk.js.LICENSE.txt",
+    "static/css/main.9d89b514.chunk.css.map": "/static/css/main.9d89b514.chunk.css.map",
+    "static/js/2.8ebf9271.chunk.js.LICENSE.txt": "/static/js/2.8ebf9271.chunk.js.LICENSE.txt",
     "static/media/instagram.d3a1907b.svg": "/static/media/instagram.d3a1907b.svg",
     "static/media/intermiles-logo.ddb74cf5.svg": "/static/media/intermiles-logo.ddb74cf5.svg",
+    "static/media/intermiles-mobile.6be39ad2.svg": "/static/media/intermiles-mobile.6be39ad2.svg",
     "static/media/linkedin.db198c1b.svg": "/static/media/linkedin.db198c1b.svg",
     "static/media/mail.0ef3fdc4.svg": "/static/media/mail.0ef3fdc4.svg",
+    "static/media/medium.6b22cff1.svg": "/static/media/medium.6b22cff1.svg",
     "static/media/mmt-logo.710c078e.svg": "/static/media/mmt-logo.710c078e.svg",
+    "static/media/mmt-mobile.cee432d5.svg": "/static/media/mmt-mobile.cee432d5.svg",
     "static/media/practo-logo.c6d0748b.svg": "/static/media/practo-logo.c6d0748b.svg",
+    "static/media/practo-mobile.79f4f9fb.svg": "/static/media/practo-mobile.79f4f9fb.svg",
     "static/media/right-arrow.e706c443.svg": "/static/media/right-arrow.e706c443.svg",
+    "static/media/sc-mobile.80a56c62.svg": "/static/media/sc-mobile.80a56c62.svg",
     "static/media/stylecracker-logo.c885cca1.svg": "/static/media/stylecracker-logo.c885cca1.svg",
-    "static/media/upgrad-logo.6f2e6527.svg": "/static/media/upgrad-logo.6f2e6527.svg"
+    "static/media/upgrad-logo.6f2e6527.svg": "/static/media/upgrad-logo.6f2e6527.svg",
+    "static/media/upgrad-mobile.1f985a37.svg": "/static/media/upgrad-mobile.1f985a37.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.66e5d9eb.js",
-    "static/js/2.7250fa0e.chunk.js",
-    "static/css/main.9fa6d9d2.chunk.css",
-    "static/js/main.80d63cc3.chunk.js"
+    "static/js/runtime-main.b3aaad90.js",
+    "static/js/2.8ebf9271.chunk.js",
+    "static/css/main.9d89b514.chunk.css",
+    "static/js/main.e357f4e1.chunk.js"
   ]
 }
